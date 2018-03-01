@@ -16,7 +16,7 @@ font-size: 20px;
 color: #000000;
 }
 
-.location a:hover {
+.location:hover {
   background-color: #FF0000;} /* mouse over */
 
 
@@ -25,7 +25,7 @@ color: #000000;
   color: #000000;
   font-family: sans-serif;
   font-weight: normal;
-  line-height: .02;
+  line-height: .01px;
 }
 nav {
   margin: 0 auto;
@@ -35,5 +35,6 @@ nav {
 }
 
 .restaurant-list {
-  padding-top: 30%;
+  padding-top: 10%;
+  width: 100%;
 }
